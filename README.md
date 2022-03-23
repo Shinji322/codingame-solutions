@@ -5,8 +5,10 @@ This is simply here to host my solutions to problems on [codingame.com](https://
 
 ## The Descent
 
-[Go](./the-descent/the-descent.go)
-[Rust](./the-descent/condingame-rs-descent.rs)
+* [Go](./the-descent/the-descent.go)
+* [Rust](./the-descent/condingame-rs-descent.rs)
+
+
 This program teaches loops
 
 
